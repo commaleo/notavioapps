@@ -20,5 +20,5 @@ Website statis sederhana untuk Notavio, siap di-deploy ke Vercel.
 Alternatif: install Vercel CLI lalu jalankan `vercel` dari folder project.
 
 ## Sebelum publik
-Ganti `support@alamat-email-anda.com` dengan email support sebenarnya.
+Ganti `support@notavioapps@gmail.com` dengan email support sebenarnya.
 Tinjau dan sesuaikan Kebijakan Privasi serta Syarat & Ketentuan dengan praktik aplikasi Notavio yang sebenarnya.
